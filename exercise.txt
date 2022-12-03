@@ -1,0 +1,3 @@
+The terminal is the application on the computer where you can make commands, create folders and files, and navigate to your desktop.
+Git is an open-source version control that lets you keep track of your code. GitHub is a service that lets you manage your repositories. You can share your code and collaborate.
+We use GitHub to track, store and better manage our code or projects, and share our code.
